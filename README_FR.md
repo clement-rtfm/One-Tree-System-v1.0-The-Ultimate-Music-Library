@@ -59,12 +59,6 @@ Cette méthode est conçue pour **maximiser la simplicité**, **éviter les doub
         /Lyrics
         /Info
         /TagsBackup
-    /_FORMATS
-        /FLAC
-        /WAV
-        /MP3_320
-        /AAC
-        /Vinyl_Rip
 ```
 
 ---
