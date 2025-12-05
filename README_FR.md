@@ -46,7 +46,6 @@ Cette méthode est conçue pour **maximiser la simplicité**, **éviter les doub
         /_Logs
     /_AUDIO
         /Artists
-        /Singles
         /Compilations
         /Live & Sessions
         /Unsorted
