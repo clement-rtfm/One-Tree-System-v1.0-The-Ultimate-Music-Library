@@ -48,7 +48,6 @@ It is designed to **maximize simplicity**, **eliminate duplicates**, and provide
         /_Logs
     /_AUDIO
         /Artists
-        /Singles
         /Compilations
         /Live & Sessions
         /Unsorted
@@ -62,12 +61,6 @@ It is designed to **maximize simplicity**, **eliminate duplicates**, and provide
         /Lyrics
         /Info
         /TagsBackup
-    /_FORMATS
-        /FLAC
-        /WAV
-        /MP3_320
-        /AAC
-        /Vinyl_Rip
 ```
 
 ---
